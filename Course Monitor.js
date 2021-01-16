@@ -12,9 +12,9 @@
 
 // Specify the course that you would like to monitor here!
 
-courseSubject = "HISTORY"
+courseSubject = "SOCIOLOGY"
 
-courseNumber = "1201E"
+courseNumber = "1101A"
 
 
 // ----------------------------///------------------------------------
